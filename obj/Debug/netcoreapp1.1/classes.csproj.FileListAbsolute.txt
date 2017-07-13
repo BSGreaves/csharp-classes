@@ -1,0 +1,8 @@
+/Users/bsg/workspace/csharp/exercises/classes/bin/Debug/netcoreapp1.1/classes.deps.json
+/Users/bsg/workspace/csharp/exercises/classes/bin/Debug/netcoreapp1.1/classes.runtimeconfig.json
+/Users/bsg/workspace/csharp/exercises/classes/bin/Debug/netcoreapp1.1/classes.runtimeconfig.dev.json
+/Users/bsg/workspace/csharp/exercises/classes/obj/Debug/netcoreapp1.1/classes.AssemblyInfo.cs
+/Users/bsg/workspace/csharp/exercises/classes/bin/Debug/netcoreapp1.1/classes.dll
+/Users/bsg/workspace/csharp/exercises/classes/bin/Debug/netcoreapp1.1/classes.pdb
+/Users/bsg/workspace/csharp/exercises/classes/obj/Debug/netcoreapp1.1/classes.dll
+/Users/bsg/workspace/csharp/exercises/classes/obj/Debug/netcoreapp1.1/classes.pdb
